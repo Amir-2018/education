@@ -1,0 +1,16 @@
+.img {
+
+    background-image: url('../outils/assets/img/about/2.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+
+  }
+  #pricing{
+    position: relative;
+    top: 100px;
+  }
+

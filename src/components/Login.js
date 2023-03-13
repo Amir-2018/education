@@ -1,7 +1,7 @@
 import '../css/Login.css'
 const Login = () => {
     return ( 
-        <div className="Auth-form-container bg-dark mt-10 ">
+        <div className="Auth-form-container bg-light mt-10 ">
 <form className="Auth-form">
   <div className="Auth-form-content">
     <h3 className="Auth-form-title">Sign In</h3>
@@ -22,8 +22,9 @@ const Login = () => {
       />
     </div>
     <div className="d-grid gap-2 mt-3">
-      <button type="submit" className="btn btn-warning">
-        Submit
+      <button type="submit" className="btn btn-warning" href=''>
+        
+        <a href='/profile'>Submit</a>
       </button>
     </div>
     <p className="forgot-password text-right mt-2">

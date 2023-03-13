@@ -47,7 +47,7 @@ function Navigation() {
             <Nav.Link href='/home#service'><span className='text-warning'> Services</span></Nav.Link>    
             <Nav.Link href="/home#about"><span className='text-warning'>About</span></Nav.Link>
             <Nav.Link href="/home#contact"><span className='text-warning'>Contact</span></Nav.Link>
-            <Nav.Link href="/home#portfolio"><span className='text-warning'>Portfolio</span></Nav.Link>
+            <Nav.Link href="/home#portfolio"><span className='text-warning'>Teachers</span></Nav.Link>
             <Nav.Link href="/login"><span className='text-warning'>Login</span></Nav.Link>
 
           </Nav>

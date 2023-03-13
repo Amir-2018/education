@@ -1,0 +1,16 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    height: 100vh;
+  }
+ #dropdown-basic{
+    width: 350px;
+ }
+ .upload-file-box{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+ }
